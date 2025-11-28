@@ -1,0 +1,18 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Tutorials": {
+    "message": "Tutorials",
+    "description": "The label for category Tutorials in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Mods Creation Tutorial": {
+    "message": "Mods Creation Tutorial",
+    "description": "The label for category Mods Creation Tutorial in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Mods Development": {
+    "message": "Mods Development",
+    "description": "The label for category Mods Development in sidebar tutorialSidebar"
+  }
+}

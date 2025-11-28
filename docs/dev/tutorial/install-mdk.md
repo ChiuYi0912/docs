@@ -2,32 +2,32 @@
 sidebar_position: 1
 ---
 
-# 安装 MDK
+# Installing MDK
 
-**MDK (Mod Development Kit)** 是 DCCM 提供的 Mod 开发工具包。本教程将指导你完成 MDK 的安装和基础配置
+**MDK (Mod Development Kit)** is the mod development toolkit provided by DCCM. This tutorial will guide you through installing and performing basic configuration of MDK.
 
-## 先决条件
+## Prerequisites
 
-- **.NET 9 SDK** ([下载地址](https://dotnet.microsoft.com/zh-cn/download/dotnet/9.0))
-  - （可选） Visual Studio 2022
-- [DCCM 核心文件](/docs/tutorial/install-core)
+- **.NET 10 SDK** ([Download Link](https://dotnet.microsoft.com/zh-cn/download/dotnet/9.0))
+  - (Optional) Visual Studio 2022
+- [DCCM Core Files](/docs/tutorial/install-core)
 
-## 安装步骤
+## Installation Steps
 
-### 运行 MDK 安装脚本
+### Run the MDK Installation Script
 
-- 打开 **文件管理器**，进入游戏根目录下的 `coremod/core/mdk` 文件夹
-- 右键**使用 Powershell 运行** 运行 `install.ps1` PowerShell 脚本
+- Open **File Explorer** and navigate to the `coremod/core/mdk` folder within the game's root directory
+- Right-click and select **Run with PowerShell** to execute the `install.ps1` PowerShell script
 
-## 验证 MDK 安装
+## Verify MDK Installation
 
-在 PowerShell 或命令提示符中执行以下命令：
+Execute the following command in PowerShell or Command Prompt:
 
 ```bash
 dotnet nuget list source
 ```
 
-你应该能在输出结果中看到类似以下内容：
+You should see output similar to:
 
 ```text
 Registered Sources:

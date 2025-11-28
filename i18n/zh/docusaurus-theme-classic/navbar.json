@@ -1,0 +1,14 @@
+{
+  "title": {
+    "message": "Dead Cells Core Modding 文档",
+    "description": "The title in the navbar"
+  },
+  "item.label.Tutorials": {
+    "message": "教程",
+    "description": "Navbar item with label Tutorials"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}
