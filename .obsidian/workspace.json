@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "i18n/zh/docusaurus-plugin-content-docs/current/dev/tutorial/A Guide to In-Game Cutscenes.md",
+                "file": "i18n/zh/docusaurus-plugin-content-docs/current/dev/tutorial/A-Guide-to-In-Game-Cutscenes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A Guide to In-Game Cutscenes"
+              "title": "A-Guide-to-In-Game-Cutscenes"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "i18n/zh/docusaurus-plugin-content-docs/current/dev/tutorial/A Guide to In-Game Cutscenes.md",
+                "file": "docs/dev/tutorial/A Guide to In-Game Cutscenes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "i18n/zh/docusaurus-plugin-content-docs/current/dev/tutorial/A Guide to In-Game Cutscenes.md",
+                "file": "docs/dev/tutorial/A Guide to In-Game Cutscenes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "i18n/zh/docusaurus-plugin-content-docs/current/dev/tutorial/A Guide to In-Game Cutscenes.md",
+                "file": "docs/dev/tutorial/A Guide to In-Game Cutscenes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -171,7 +171,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "i18n/zh/docusaurus-plugin-content-docs/current/dev/tutorial/A Guide to In-Game Cutscenes.md"
+                "file": "docs/dev/tutorial/A Guide to In-Game Cutscenes.md"
               },
               "icon": "lucide-file-signature",
               "title": "脚注"
@@ -195,53 +195,53 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "923f39f2489aa8ba",
+  "active": "04578508cfa7d168",
   "lastOpenFiles": [
-    "i18n/zh/docusaurus-plugin-content-docs/current/dev/tutorial/install-mdk.md",
+    "docs/dev/tutorial/first-weapon.md",
+    "build/zh/404.html",
+    "build/zh/docs/tutorial/install-mods/index.html",
+    "build/zh/docs/tutorial/install-core/index.html",
+    "build/zh/docs/tutorial/install-mods",
+    "build/zh/docs/tutorial/install-core",
+    "build/zh/docs/tutorial",
+    "build/zh/docs/dev/tutorial/install-mdk/index.html",
+    "build/zh/docs/dev/tutorial/first-mod/index.html",
+    "build/zh/docs/dev/tutorial/first-weapon/index.html",
+    "build/zh/docs/dev/tutorial/A-Guide-to-In-Game-Cutscenes/index.html",
+    "build/zh/assets/images/cm3-cb917724b842ac04b9ff1492658d5f20.png",
+    "build/zh/assets/images/Pasted-zh-7db057931474ac2decd667b8e6e2cab5.png",
+    "build/zh/assets/images/cm2-b581a8dce2de3789937f9e21d12d4707.png",
+    "build/zh/assets/images/cm0-56e5c397821ccd35c540385ae4aaead3.png",
+    "build/zh/assets/images/cm-20755b4bf07ae0de07cda2d976c80b01.png",
     "docs/dev/tutorial/A Guide to In-Game Cutscenes.md",
-    "node_modules/compression/node_modules/debug/node.js",
-    "node_modules/cli-table3/node_modules/emoji-regex/text.js",
-    "node_modules/castable-video/castable-video.js",
-    "node_modules/castable-video/castable-utils.js",
-    "node_modules/castable-video/castable-remote-playback.js",
-    "node_modules/caniuse-lite/data/features/css-if.js",
-    "node_modules/buffer-from/readme.md",
-    "node_modules/buffer-from/package.json",
-    "node_modules/buffer-from/LICENSE",
-    "node_modules/buffer-from/index.js",
-    "node_modules/buffer-from",
-    "node_modules/@jridgewell/trace-mapping/README.md",
-    "node_modules/@jridgewell/source-map/README.md",
-    "node_modules/@jridgewell/resolve-uri/README.md",
-    "node_modules/@jridgewell/gen-mapping/README.md",
-    "node_modules/@jest/types/README.md",
-    "node_modules/@jest/schemas/README.md",
-    "node_modules/@hapi/topo/README.md",
-    "node_modules/@hapi/topo/LICENSE.md",
-    "node_modules/@hapi/hoek/README.md",
-    "node_modules/@hapi/hoek/LICENSE.md",
-    "node_modules/@docusaurus/utils-common/README.md",
-    "node_modules/@docusaurus/utils/README.md",
-    "node_modules/@docusaurus/types/node_modules/webpack-merge/README.md",
-    "node_modules/@docusaurus/theme-translations/README.md",
-    "node_modules/@docusaurus/theme-search-algolia/README.md",
-    "node_modules/@docusaurus/theme-common/README.md",
-    "node_modules/@docusaurus/theme-classic/README.md",
-    "node_modules/@docusaurus/preset-classic/README.md",
-    "node_modules/@docusaurus/plugin-svgr/README.md",
-    "node_modules/@docusaurus/plugin-sitemap/README.md",
-    "node_modules/@docusaurus/plugin-google-tag-manager/README.md",
-    "node_modules/@docusaurus/plugin-google-gtag/README.md",
-    "node_modules/@docusaurus/plugin-google-analytics/README.md",
-    "build/zh/assets/images/Pasted-7db057931474ac2decd667b8e6e2cab5.png",
-    "build/assets/images/Pasted-5f83a8332758f67a1c8106c148c72d9d.png",
-    "i18n/zh/docusaurus-plugin-content-docs/current/dev/tutorial/img/Pasted.png",
-    "docs/dev/tutorial/img/Pasted.png",
-    "i18n/zh/docusaurus-plugin-content-docs/current/tutorial/img/{D0E4CA71-3773-4DED-9C08-A8ABF9B6E9D9}.png",
-    "Pasted image 20251128205231.png",
-    "docs/tutorial/img/{D0E4CA71-3773-4DED-9C08-A8ABF9B6E9D9}.png",
-    "node_modules/@docusaurus/preset-classic/node_modules/@docusaurus/logger/demo.png",
-    "node_modules/@docusaurus/plugin-google-tag-manager/node_modules/@docusaurus/logger/demo.png",
-    "node_modules/@docusaurus/plugin-google-gtag/node_modules/@docusaurus/logger/demo.png"
+    "docs/dev/tutorial/A-Guide-to-In-Game-Cutscenes.md",
+    "i18n/zh/docusaurus-plugin-content-docs/current/dev/tutorial/A-Guide-to-In-Game-Cutscenes.md",
+    "i18n/zh/docusaurus-plugin-content-docs/current/dev/tutorial/AGuide to In-Game Cutscenes.md",
+    "docs/dev/tutorial/install-mdk.md",
+    "docs/dev/tutorial/first-mod.md",
+    "docs/dev/tutorial/img/Pasted-en.png",
+    "docs/dev/look-persudo.md",
+    "build/assets/images/Pasted-en-5f83a8332758f67a1c8106c148c72d9d.png",
+    "build/assets/images/cm3-cb917724b842ac04b9ff1492658d5f20.png",
+    "build/assets/images/cm2-b581a8dce2de3789937f9e21d12d4707.png",
+    "build/assets/images/cm-20755b4bf07ae0de07cda2d976c80b01.png",
+    "i18n/zh/docusaurus-plugin-content-docs/current/dev/tutorial/A Guide to In-Game Cutscenes.md",
+    "i18n/zh/docusaurus-plugin-content-docs/current/tutorial/install-core.md",
+    "i18n/zh/docusaurus-plugin-content-docs/current/tutorial/install-mods.md",
+    "node_modules/is-hexadecimal/readme.md",
+    "node_modules/is-decimal/readme.md",
+    "node_modules/is-number/README.md",
+    "node_modules/to-regex-range/README.md",
+    "node_modules/fill-range/README.md",
+    "i18n/zh/docusaurus-plugin-content-docs/current/dev/tutorial/first-mod.md",
+    "i18n/zh/docusaurus-plugin-content-docs/current/dev/tutorial/install-mdk.md",
+    "i18n/zh/docusaurus-plugin-content-docs/current/dev/tutorial/first-weapon.md",
+    "docs/i18n/zh/docusaurus-plugin-content-docs/current/dev/tutorial/img 1.md",
+    "docs/i18n/zh/docusaurus-plugin-content-docs/current/dev/tutorial/img 3.md",
+    "docs/i18n/zh/docusaurus-plugin-content-docs/current/dev/tutorial/img 2.md",
+    "docs/i18n/zh/docusaurus-plugin-content-docs/current/dev/tutorial/img.md",
+    "i18n/zh/docusaurus-plugin-content-docs/current/dev/look-persudo.md",
+    "node_modules/ini/README.md",
+    "i18n/zh/docusaurus-plugin-content-docs/current/dev/tutorial/img/未命名.canvas"
   ]
 }
