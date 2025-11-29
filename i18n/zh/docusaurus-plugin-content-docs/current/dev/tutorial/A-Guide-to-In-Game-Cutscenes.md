@@ -102,7 +102,7 @@ private void Hook_EnterThroneRoomAsKing_update(Hook_EnterThroneRoomAsKing_orig_u
 
 
 :::warning
-> **必须创建新的 Cinematic 实例** > 如果不显式创建新的 `Cinematic` 对象，游戏引擎将执行默认的原版过场动画逻辑。
+ **必须创建新的 Cinematic 实例** > 如果不显式创建新的 `Cinematic` 对象，游戏引擎将执行默认的原版过场动画逻辑。
 :::
 # 运行后就是这样的
 
